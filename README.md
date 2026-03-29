@@ -1,10 +1,10 @@
 # Probabilistic ML — From Scratch
 
-Working through Kevin Murphy's ***Probabilistic Machine Learning*** series and implementing everything by hand — no black-box library calls where the math can be written explicitly instead.
+Working through *Kevin Murphy's* ***Probabilistic Machine Learning*** series and implementing everything by hand — no black-box library calls where the math can be written explicitly instead.
 
 The goal isn't to reproduce the book. It's to know when something is wrong, why it's wrong, and how to fix it — which only happens when you've built it yourself.
 
-<img src="assets/pml_cover.jpg" width="180"/>
+<img src="assets/pml_cover.jpg" width="360"/>
 
 
 ---
